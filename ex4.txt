@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 ex5
+=======
+ex4
+secret
+>>>>>>> Stashed changes
