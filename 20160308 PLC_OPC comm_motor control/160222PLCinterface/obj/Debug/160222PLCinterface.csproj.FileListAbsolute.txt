@@ -1,0 +1,56 @@
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\160222PLCinterface.csprojResolveAssemblyReference.cache
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\_160222PLCinterface.Form1.resources
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\_160222PLCinterface.Properties.Resources.resources
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.GenerateResource.Cache
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\bin\Debug\160222PLCinterface.exe
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\bin\Debug\160222PLCinterface.pdb
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+c:\users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\bin\Debug\MathNet.Numerics.dll
+C:\Users\adiministrator\documents\visual studio 2013\Projects\160222PLCinterface\160222PLCinterface\bin\Debug\MathNet.Numerics.xml
+C:\Users\adiministrator\Dropbox\English\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\adiministrator\Dropbox\English\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+C:\Users\adiministrator\Dropbox\English\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\adiministrator\Dropbox\English\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\orange\Dropbox\루피\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\orange\Dropbox\루피\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\orange\Dropbox\루피\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\orange\Dropbox\루피\20160127CADCAM conference\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\MathNet.Numerics.xml
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csprojResolveAssemblyReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\_160222PLCinterface.Form1.resources
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\_160222PLCinterface.Properties.Resources.resources
+C:\Users\adiministrator\Dropbox\English\OPC\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.GenerateResource.Cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\bin\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\bin\Debug\160222PLCinterface.pdb
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\bin\Debug\MathNet.Numerics.xml
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\160222PLCinterface.csprojResolveAssemblyReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\_160222PLCinterface.Form1.resources
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\_160222PLCinterface.Properties.Resources.resources
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160222 PLC_OPC comm_r0\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.GenerateResource.Cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.exe
+C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
