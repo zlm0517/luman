@@ -54,8 +54,3 @@ C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_
 C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
 C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.exe
 C:\Users\adiministrator\Dropbox\English\OPC\160229Complete version\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
-D:\Git directory\20160308 PLC_OPC comm_motor control\160222PLCinterface\bin\Debug\160222PLCinterface.exe.config
-D:\Git directory\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\Interop.OPCSiemensDAAutomation.dll
-D:\Git directory\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.csproj.ResolveComReference.cache
-D:\Git directory\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.exe
-D:\Git directory\20160308 PLC_OPC comm_motor control\160222PLCinterface\obj\Debug\160222PLCinterface.pdb
