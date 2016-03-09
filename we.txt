@@ -1,2 +1,6 @@
 you know a girl who named luman
+<<<<<<< HEAD
 yeah
+=======
+yeah of course
+>>>>>>> experiment2
